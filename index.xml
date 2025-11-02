@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>tc191</title>
+        <link>https://tc1911.github.io/</link>
+        <description>Recent content on tc191</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>tc191的博客</copyright>
+        <lastBuildDate>Mon, 03 Nov 2025 02:18:45 +0800</lastBuildDate><atom:link href="https://tc1911.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>小米平板5完全折腾指南</title>
+        <link>https://tc1911.github.io/p/%E5%B0%8F%E7%B1%B3%E5%B9%B3%E6%9D%BF5%E5%AE%8C%E5%85%A8%E6%8A%98%E8%85%BE%E6%8C%87%E5%8D%97/</link>
+        <pubDate>Mon, 03 Nov 2025 02:18:45 +0800</pubDate>
+        
+        <guid>https://tc1911.github.io/p/%E5%B0%8F%E7%B1%B3%E5%B9%B3%E6%9D%BF5%E5%AE%8C%E5%85%A8%E6%8A%98%E8%85%BE%E6%8C%87%E5%8D%97/</guid>
+        <description>&lt;p&gt;#小米平板5完全折腾指南&lt;/p&gt;
+&lt;p&gt;#前言&lt;/p&gt;
+&lt;p&gt;这是一篇以小米平板5为例的小米pad优化与玩机教程。我们将从解锁BL开始，逐步带你了解Root、刷入各种系统（包括官方包，官改包、类原生）乃至制作win11与安卓的双系统。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://tc1911.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://tc1911.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://tc1911.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://tc1911.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://tc1911.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://tc1911.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
